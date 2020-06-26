@@ -31,6 +31,9 @@ $ python exploit.py -u admin@example.org -p password123 -i 'http://10.0.0.1' -c 
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/index.html)
 - [Requests](https://requests.readthedocs.io/en/master/)
 
+
+`pip3 install -r requirements.txt`
+
 Example for ArchLinux:
 
 ```
